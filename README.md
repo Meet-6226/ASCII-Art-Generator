@@ -22,4 +22,5 @@ Unique Features of the ASCII Art Generator Project:
 	5.	Dynamic GUI with Tkinter – Uses Tkinter’s ttk styling for a modern and clean interface.
 
 Extra Features:
-Customizable Fonts & Colors – Users can select from multiple pyfiglet fonts and customize the text color.
+
+	Customizable Fonts & Colors – Users can select from multiple pyfiglet fonts and customize the text color.
