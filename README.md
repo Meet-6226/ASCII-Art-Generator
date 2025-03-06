@@ -6,7 +6,9 @@ This Python project is an ASCII Art Generator built with Tkinter. It allows user
 
 The required libraries for this project are:
 	1.	tkinter – For building the graphical user interface (GUI).
+ 
 	2.	filedialog, ttk, scrolledtext, messagebox (from tkinter) – For file selection, UI styling, text scrolling, and message pop-ups.
+ 
 	3.	pyfiglet – For generating ASCII art from text.
 	4.	termcolor – For adding colors to ASCII text in the terminal.
 	5.	PIL (Pillow) – For saving ASCII art as an image (PNG format).
