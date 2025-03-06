@@ -24,3 +24,6 @@ Unique Features of the ASCII Art Generator Project:
 Extra Features:
 
 	Customizable Fonts & Colors – Users can select from multiple pyfiglet fonts and customize the text color.
+
+UI:
+![image](https://github.com/user-attachments/assets/789fd01d-c5ca-47f3-9b65-75ebd6260b24)
