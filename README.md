@@ -26,7 +26,8 @@ Extra Features:
 	Customizable Fonts & Colors – Users can select from multiple pyfiglet fonts and customize the text color.
 
 UI:
-![image](https://github.com/user-attachments/assets/789fd01d-c5ca-47f3-9b65-75ebd6260b24)
+![image](https://github.com/user-attachments/assets/fcb39ded-2926-4c8a-954a-437601a7087f)
+
 
 How to Run the Project
 
