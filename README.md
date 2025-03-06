@@ -27,3 +27,12 @@ Extra Features:
 
 UI:
 ![image](https://github.com/user-attachments/assets/789fd01d-c5ca-47f3-9b65-75ebd6260b24)
+
+How to Run the Project
+
+	•	Enter a message in the text box.
+	•	Select a font from the dropdown.
+	•	Choose a text color and theme.
+	•	Click “Generate ASCII” to preview the art.
+	•	Save the output as TXT or PNG.
+Enjoy your ASCII art! 🎨✨
